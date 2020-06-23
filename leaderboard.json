@@ -1,0 +1,93 @@
+{
+
+    "intern":
+    [
+        {
+            "rank":"1",
+            "name":"Sakarious",
+            "email":"ajayimooseize@gmail.com",
+            "track":"Backend",
+            "total stages":"10",
+            "current stage":"10",
+            "points":"100"
+        },
+        {
+            "rank":"2",
+            "name":"Mooseize",
+            "email":"mooseize@gmail.com",
+            "track":"DevOps",
+            "total stages":"10",
+            "current stage":"10",
+            "points":"70"
+        },
+        {
+            "rank":"3",
+            "name":"Nightcrawler",
+            "email":"nightcrawleer@gmail.com",
+            "track":"Design",
+            "total stages":"10",
+            "current stage":"8",
+            "points":"50"
+        },
+        {
+            "rank":"4",
+            "name":"Kvnging",
+            "email":"kvnging@gmail.com",
+            "track":"Frontend",
+            "total stages":"10",
+            "current stage":"7",
+            "points":"30"
+        },
+        {
+            "rank":"5",
+            "name":"Abdy",
+            "email":"abdy@gmail.com",
+            "track":"Backend",
+            "total stages":"10",
+            "current stage":"6",
+            "points":"27"
+        },
+        {
+            "rank":"6",
+            "name":"Pharoah",
+            "email":"pharoahe@gmail.com",
+            "track":"Frontend",
+            "total stages":"10",
+            "current stage":"5",
+            "points":"23"
+        },
+        {
+            "rank":"7",
+            "name":"Stanlee",
+            "email":"stanlee@gmail.com",
+            "track":"Backend",
+            "total stages":"10",
+            "current stage":"4",
+            "points":"20"
+        },
+        {
+            "rank":"8",
+            "name":"Joan",
+            "email":"joan@gmail.com",
+            "track":"Design",
+            "total stages":"10",
+            "current stage":"3",
+            "points":"15"
+        },
+        {
+            "rank":"9",
+            "name":"Fadekemi",
+            "email":"fadekemi@gmail.com",
+            "track":"DevOps",
+            "total stages":"10",
+            "current stage":"2",
+            "points":"6"
+        }
+
+
+
+    ]
+
+
+
+}
